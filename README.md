@@ -1,2 +1,2 @@
 # benchmarks
-benchmarks for VASP and other first principles codes
+Benchmarks for VASP and other first principles codes
