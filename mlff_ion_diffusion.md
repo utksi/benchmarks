@@ -26,4 +26,4 @@ MLFF - AIMD - 1000 steps (1fs each):
    4. 512 cores
    Walltime: 1.0440 hours
 
-- Diffusion events, need ~10 ps at the least for halides, more for cation diffusion
+- Diffusion events: need ~10 ps at the least for halide ions, more for cation diffusion
