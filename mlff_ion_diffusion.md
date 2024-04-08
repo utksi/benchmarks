@@ -8,22 +8,22 @@ System size: 384 atoms (perfect cell), 381 atoms (one Pb+2 vacancy, 2 I- vacanci
 
 Ref: AIMD for 1ps
    1. 128 cores
-   Walltime: 14.12 hours
+   Walltime: 12.62 hours
    2. 196 cores
-   Walltime: 
+   Walltime: 8.11 hours
    3. 256 cores
-   Walltime:
+   Walltime: 6.37 hours
    4. 512 cores
-   Walltime: 
+   Walltime: 5.66 hours
 
 MLFF - AIMD - 1000 steps (1fs each):
    1. 128 cores
    Walltime: 2.3585 hours
    2. 196 cores
-   Walltime: 
+   Walltime: 1.4380 hours
    3. 256 cores
-   Walltime: 
+   Walltime: 1.1643 hours
    4. 512 cores
-   Walltime: 
+   Walltime: 1.0440 hours
 
 - Diffusion events, need ~10 ps at the least for halides, more for cation diffusion
