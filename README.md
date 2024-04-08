@@ -6,7 +6,7 @@ CH3NH3PbI3; all tests on dardel
 System size: 384 atoms (perfect cell), 381 atoms (one Pb+2 vacancy, 2 I- vacancies, even electrons) 
 
 - Equilibration is achieved in ~800fs (looking at velocity autocorrelation function), T = 300. K
-- Goal: match g(r) after equilibration for perfect cell. ![perfect cell](./perfect_cell.jpeg "Perfect cell")
+- Goal: match g(r) after equilibration for perfect cell. <img src="./perfect_cell.jpeg" alt="Perfect cell" width="100" />
 - Limitation: AIMD for MAPbI3 seems to be memory intensive
 
 Ref: AIMD for 1ps
